@@ -1,2 +1,2 @@
-# Excel-Business-Analytics-Projects
-A collection of Excel projects created during my Business Analytics studies, demonstrating key functions such as IF, VLOOKUP, Pivot Tables, Conditional Formatting, and more.
+Real-world Excel projects using IF, VLOOKUP, PivotTables, and logic to solve business problems — built as part of my Business Analytics training.
+
