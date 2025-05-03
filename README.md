@@ -13,7 +13,7 @@ Lookup functions (VLOOKUP vs IF-based logic)
 
 Pivot Table calculations and performance summaries
 
-Files Included
+Files Included:
 
 Conditional_Formatting_Rules.xlsx
 Demonstrates how to highlight values and trends using conditional formatting.
