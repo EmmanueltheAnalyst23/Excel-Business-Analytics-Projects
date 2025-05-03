@@ -40,7 +40,8 @@ These exercises were developed to build and demonstrate foundational Excel analy
 Author:
 
 Emmanuel Ejiohuo
-Junior Data Analyst | Business Analytics Student
+Junior Data Analyst | Business Analytics
+Student
 Email: ejiohuoemmanuel7@gmail.com
 LinkedIn: linkedin.com/in/emmanuel-ejiohuo
 
