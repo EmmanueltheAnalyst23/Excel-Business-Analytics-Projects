@@ -41,6 +41,7 @@ Author:
 
 Emmanuel Ejiohuo
 Junior Data Analyst | Business Analytics
+
 Student
 Email: ejiohuoemmanuel7@gmail.com
 LinkedIn: linkedin.com/in/emmanuel-ejiohuo
