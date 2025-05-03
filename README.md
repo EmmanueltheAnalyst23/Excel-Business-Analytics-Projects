@@ -1,4 +1,4 @@
-Excel Business Analytics Projects
+Excel Business Analytics Projects:
 This repository contains a collection of real-world Excel projects completed as part of my Business Analytics coursework. Each file demonstrates how Excel functions and tools are used to solve business problems through logic, data structuring, and analysis.
 
 These projects focus on key Excel skills that are essential for junior analyst roles, including:
