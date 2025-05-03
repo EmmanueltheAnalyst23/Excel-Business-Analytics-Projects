@@ -33,11 +33,11 @@ Practical use of Excel’s sort and filter tools to clean and explore raw data.
 VLOOKUP_vs_IF_Functions.xlsx
 Compares two popular methods for retrieving and mapping data in Excel.
 
-Purpose
+Purpose:
 
 These exercises were developed to build and demonstrate foundational Excel analysis skills. They reflect typical business data tasks and are designed to be clear, hands-on examples of real-world problem-solving in Excel.
 
-Author
+Author:
 
 Emmanuel Ejiohuo
 Junior Data Analyst | Business Analytics Student
