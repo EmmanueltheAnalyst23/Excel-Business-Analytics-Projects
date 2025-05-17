@@ -1,48 +1,40 @@
-Excel Business Analytics Projects:
-This repository contains a collection of real-world Excel projects completed as part of my Business Analytics coursework. Each file demonstrates how Excel functions and tools are used to solve business problems through logic, data structuring, and analysis.
+Excel Business Analytics Projects
 
-These projects focus on key Excel skills that are essential for junior analyst roles, including:
+This repository features a collection of real-world Excel projects I completed as part of my Business Analytics coursework. Each file shows how core Excel functions and tools can be used to solve everyday business problems through logic, data organization, and analysis.
 
-Logical formulas (IF, AND, OR, IFS)
+Key Skills Demonstrated:
+	•	Logical formulas: IF, AND, OR, IFS
+	•	Conditional Formatting
+	•	Sorting and Filtering
+	•	Lookup functions: VLOOKUP vs. IF-based logic
+	•	Pivot Table calculations and performance summaries
 
-Conditional Formatting
+⸻
 
-Sorting and Filtering
-
-Lookup functions (VLOOKUP vs IF-based logic)
-
-Pivot Table calculations and performance summaries
-
-Files Included:
-
-Conditional_Formatting_Rules.xlsx
-Demonstrates how to highlight values and trends using conditional formatting.
-
-Logical_Conditions_IF_AND_OR.xlsx
-Shows how to use IF, AND, and OR formulas to handle logic-based decision-making.
-
-Nested_IFS_Conditions.xlsx
-Applies nested IF formulas for advanced condition handling.
-
-Sales_Analysis_Pivot_Calculations.xlsx
-A pivot table-based analysis showing sales totals, categories, and performance metrics.
-
-Sorting_Filtering_Excel.xlsx
-Practical use of Excel’s sort and filter tools to clean and explore raw data.
-
-VLOOKUP_vs_IF_Functions.xlsx
-Compares two popular methods for retrieving and mapping data in Excel.
+Project Files:
+	•	Conditional_Formatting_Rules.xlsx
+Highlights how to use conditional formatting to spot trends and key values.
+	•	Logical_Conditions_IF_AND_OR.xlsx
+Demonstrates how IF, AND, and OR formulas are used for decision logic.
+	•	Nested_IFS_Conditions.xlsx
+Uses nested IF statements for handling multiple conditions.
+	•	Sales_Analysis_Pivot_Calculations.xlsx
+A sales data analysis using pivot tables to break down categories and performance metrics.
+	•	Sorting_Filtering_Excel.xlsx
+Shows how sorting and filtering help clean and explore raw datasets.
+	•	VLOOKUP_vs_IF_Functions.xlsx
+Compares the use of VLOOKUP and IF logic for retrieving and matching data.
 
 Purpose:
 
-These exercises were developed to build and demonstrate foundational Excel analysis skills. They reflect typical business data tasks and are designed to be clear, hands-on examples of real-world problem-solving in Excel.
+These exercises are designed to build and demonstrate key Excel skills that are essential for junior analyst roles. Each project reflects common business tasks and provides a hands-on look at real-world data analysis in Excel.
+
+⸻
 
 Author:
-
 Emmanuel Ejiohuo
-| Junior Data Analyst | Business Analytics student
+Junior Data Analyst | Business Analytics Student
+LinkedIn:https://www.linkedin.com/in/emmanuel-ejiohuo
+ejiohuoemmanuel7@gmail.com
 
-Student
-Email: ejiohuoemmanuel7@gmail.com
-LinkedIn: linkedin.com/in/emmanuel-ejiohuo
 
