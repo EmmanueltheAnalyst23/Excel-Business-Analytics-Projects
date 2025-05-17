@@ -27,9 +27,6 @@ Purpose:
 These exercises are designed to build and demonstrate key Excel skills that are essential for junior analyst roles. Each project reflects common business tasks and provides a hands-on look at real-world data analysis in Excel.
 
 
-Author: Emmanuel Ejiohuo
-Role: Junior Data Analyst | Business Analytics Student
-🔗 LinkedIn Profile: https://www.linkedin.com/in/emmanuel-ejiohuo
-📧 Email: ejiohuoemmanuel7@gmail.com
+
 
 
