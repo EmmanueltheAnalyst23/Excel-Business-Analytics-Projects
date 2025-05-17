@@ -34,7 +34,7 @@ These exercises are designed to build and demonstrate key Excel skills that are 
 Author:
 Emmanuel Ejiohuo
 Junior Data Analyst | Business Analytics Student
-LinkedIn:https://www.linkedin.com/in/emmanuel-ejiohuo
-ejiohuoemmanuel7@gmail.com
+[LinkedIn profile](https://www.linkedin.com/in/emmanuel-ejiohuo
+Email: ejiohuoemmanuel7@gmail.com
 
 
